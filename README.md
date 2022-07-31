@@ -1,7 +1,7 @@
 Hi 👋 My name is Rajarshi Agarwal
 =================================
 
-I am a 2nd year B.Tech. CSE student at SRMIST and I am an aspiring Front-End Web Developer. My interests lie in various domains including AI/ML, Graphic Designing and Competitive Coding. I love programming a lot. I participate in hackathons and coding competitions and I like to learn more and more things. I love challenges whether it be some entirely new topic for me or related to something I already know. I have an unquenchable thirst for knowledge.
+I am an Undergraduate Pre-Final Year Student at SRM University pursuing a Bachelors' Degree in Computer Science and Engineering in the domains of Big Data Analytics and a aspiring Web Developer. My interests lie in various domains including AI/ML, Graphic Designing and Competitive Coding. I love programming a lot. I participate in hackathons and coding competitions and I like to learn more and more things. I love challenges whether it be some entirely new topic for me or related to something I already know. I have an unquenchable thirst for knowledge.
 
 * 🌍  I'm based in Jaipur, Rajasthan
 * ✉️  You can contact me at [rajarshi.agarwal.10122001@gmail.com](mailto:rajarshi.agarwal.10122001@gmail.com)
